@@ -7,7 +7,7 @@ This section contains a general overview of topics that you will learn in this l
 
 * How do you declare a variable?
 * What are three different ways to declare a variable?
-* Which one should you use when?
+* Which one should you use and when?
 * What are the rules for naming variables?
 * What are operators, operands, and operations?
 * What is concatenation and what happens when you add numbers and strings together?
